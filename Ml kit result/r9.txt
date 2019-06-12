@@ -1,0 +1,436 @@
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, CAURON, CAUTION, 0, CAUTION, TION, 0, 0, 0, 0, 0, CAUTION, 0, 0, CAUTION
+    OXYOEN IN UNE
+    NO BMOKING OR OPEN FLAME
+    Comp
+    209
+    O8nuier MiNIO, Vsion
+    CAUTION
+    CO Du
+    OyceN NUS
+    NO SUONING OR OPENLANE, 209
+I/System.out: Computer Vision
+    Laboralory
+    OxYGEN IN USE
+    CAUTION
+    NO SMOKING OR OPEN FLAME Computer V, NO
+    Computer Vis
+    OxYGEN IN USE
+    209
+    G OR C OPEN FLAME
+    CAUTION
+    Laboratory
+    Computer Vsion, 200
+    Computer Vision
+    aboratory
+    GKYG N IN USE
+    CAUTION
+    ING OfE OfEN FLAME
+    Computer Visi
+    NO, Computer Visi
+    CAUTION
+    Computer Vision
+    Laboratory
+    209
+    NO SMOKING OR OPEN FLAME
+    0xYGEN IN USE, 209
+    Computer Vision
+    Laboratory
+    CAUTION
+    OxYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+I/System.out: Computer, Compute
+    CAUTION
+    209
+    NO SMOKING OR OPEN FLAME
+    Laboratory
+    Computer Vision
+    OXYGEN IN USE, 209
+    Vision
+    CAUTION
+    OXYGEN IN USE
+    NO
+    Compu
+    G OR OPEN FLAME, 209
+    CAUTION
+    OXYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Compute
+    Computer Vision
+    Laboralory, 209
+    Computer Vision
+    Laboratory
+    CAUTION
+    OxYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Comput, Compute
+    CAUTION
+    209
+    NO SMOKING OR OPEN FLAME
+    oralory
+    Computer Vision
+    OXYGEN IN USE, 209
+    CAUTION
+    OxYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Compute
+    Computer Vision
+I/System.out: Laboratory, 209
+    Compurer Vision
+    Laboratory
+    CAUTION
+    OXYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Compute, 209
+    CAUTION
+    OXYGEN IN USE
+    NOSMOKING OR OPEN FLAME
+    Computer
+    Computer Vision
+    Laboratory, Computer
+    CAUTION
+    Computer Vision
+    Laboratory
+    209
+    NO SMOKING OR OPEN FLAME
+    OxYGEN IN USE, Computer l
+    CAUTION
+    209
+    NO SMOKING OR OPEN FLAME
+    Laboratory
+    Computer Vision
+    OXYGEN IN USE, Computer t
+    CAUTION
+    (
+    Computer Vision
+    Laboralory
+    209
+    NO SMOKING OR OPEN FLAME
+    OXYGEN IN USE, CAUTION
+I/System.out: ComputerV
+    Computer Vision
+    Laboratory
+    209
+    OxYGEN IN USE
+    NO SMOKING OR OPEN FLAME, NO SMOKING OR OPEN FLAME
+    Computer Vis
+    CAUTION
+    OXYGEN IN USE
+    209
+    Laboratory
+    Computer Vision, 209
+    CAUTION
+    OXYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Computer Vis
+    Computer Vision
+    Laboratory, 209
+    Computer Vision
+    Laboratory
+I/System.out: CAUTION
+    OXYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Computer Visi,0,Computer Vision
+    CAUTION
+    Computer Vision
+    Laboratory
+    209
+    NO SMOKING OR OPEN FLAME
+    OXYGEN IN USE, Computer Vision L
+    CAUTION
+    Computer Vision
+    Laboratory
+    209
+    NO SMOKING OR OPEN FLAME
+    OxYGEN IN USE, 209
+    OxYGEN IN USE
+    Computer Vision
+    Laboratory
+    CAUTION
+    NO SMOKING OR OPEN FLAME Computer Vision L, 209
+I/System.out: Computer Vision
+    Laboratory
+    CAUTION
+    OXYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Computer VisionL, UC
+    Computer Vision L
+    CAUTION
+    Computer Vision
+    Laboratory
+    209
+    NO SMOKING OR OPEN FLAME
+    OXYGEN IN USE, UC
+    Computer Vision La
+    CAUTION
+    209
+    NO SMOKING OR OPEN FLAME
+    Laboratory
+    Computer Vision
+    OXYGEN IN USE, 209
+    Computer Vision
+    Laboratory
+    CAUTION
+    OXYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Computer Vision L, Computer Visionl
+    CAUTION
+    209
+    NO SMOKING OR OPEN FLAME
+    Laboratory
+    Computer Vision
+    OXYGEN IN USE, 209
+    Computer Vision
+    Laboratory
+    CAUTION
+I/System.out: OXYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Computer Visio, NO SMOKING OR OPEN FLAME
+    Computer Visior
+    CAUTION
+    OxYGEN IN USE
+    Computer Vision
+    Laboratory
+    209, 209
+    CAUTION
+    OxYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    Computer Vision
+    Computer Vision
+    Laboratory, Computer Vision
+    CAUTION
+    Computer Vision
+    Laboratory
+    209
+    NO SMOKING OR OPEN FLAME
+    OXYGEN IN USE, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 209, 0, 209, Laboratory, Computer Vision, 0, 0, 0, 0, 0, 0, 0, 0, CAUTION, CAUTI, 209
+    Compute
+    Laboratory
+I/System.out: CAUTIO
+    l IN USE
+    NO SMOKING OR OPEN FL, 209
+    Computer Vision
+    Laboratory
+    CAUTIO
+    NO SMOKING OR OPEN FL, 209
+    CAUTIO
+    OxYGEN IN USE
+    NO SMOKING OR OPEN El
+    Computer Vision
+    ratory, 209
+    CAUTIC
+    OxYGEN IN USE
+    NO SMOKING OR OPEN F
+    Gomputer Vision
+    tory, 209
+    Computer Vision
+    Laboratory
+    CAUTIC
+    USE
+    NO SMOKING OR OPEN, 209
+    Computer Vision
+    CAUTI
+I/System.out: OXYGEN IN US
+    NO SMOKING OR OPE, 209
+    CAUTI
+    NO SMOKING OR O, 209
+    CAUT
+    OX
+    puter Vision
+    Laboratory, 209
+    omputer Vision
+    CAU
+    NO SMOKING OR, 209
+    CAU
+    YeEN
+    ING
+    Computer Vision
+    Laboratory, 209
+    CAU
+    NO SMOKING OR
+    Compuler Vision
+    Laboratory, 209
+    Computer Vision
+    Laboratory
+    CAUT
+    OXYGEN
+    NO SMOKING OOR, 209
+    Computer Vision
+    Laboratory
+    CAUT
+    OXYGEN
+I/System.out: NO SMOKING O, 209
+    Computer Vision
+    Laboratory
+    CAU
+    OXYGE
+    NO SMOKING O, 209
+    Computer Vision
+    Laboratory
+    CAU
+    OXY
+    NO SMOKING, 209
+    Computer Vision
+    Laboratory
+    II
+    CAU
+    OXYGEN
+    NO SMOKING OF, 209
+    Computer Vision
+    Laboratory
+    CAU
+    OXYGE
+    NO SMOKING C, 209
+    Computer Vision
+    Laboratory
+    CAU
+    OxYGE
+    NO SMOKING C, 209
+    Computer ision
+    Laboratory
+    CAUT
+    OxYGEN
+    NO SMOKING OR, 209
+    Computer Vision
+I/System.out: Laboratory
+    CAUT
+    OxYGEN I
+    NO SMOKING OR, 209
+    CAUTI
+    OXYGEN IN
+    NO SMOKING OR OP
+    Computer Vision
+    Laboratory, 209
+    Computer Vision
+    Laboratory
+    CAUTI
+    OXYGEN IN
+    NO SMOKING OR O, 209
+    Computer Vision
+    Laboratory
+    CAUT
+    OXYGEN IN L
+    NO SMOKING OR O, 209
+    Computer Vision
+    Laboratory
+    CAUTI
+    OXYGEN IN U
+    NO SMOKING OR OPE,0,209
+    Computer Vision
+    Laboratory
+    CAUTI
+    OXYGEN IN US
+    NO SMOKING OR OPE, 209
+    Computer Vision
+    Laboratory
+    CAUTI
+    OXYGEN IN US
+    NO SMOKING OR OPE, 209
+    CAUTIC
+    OXYGEN IN USE
+    NO SMOKING OR OPEN
+    Computer Vision
+    Laboratory, 209
+    Computer Vision
+    Laboratory
+    CAUTIC
+    OXYGEN IN USE
+    NO SMOKING OR OPEN
+    e, 209
+    CAUT
+    OxYGEN IN
+    NO
+    OR
+    Gompurer Vision
+    Laboratory, 0, 0, 0, 0, 0, 0, 0, 0, T, L, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, L, 0, 0, I, 0, 0, L, 0, 0, 0, 0, 0, 0,0,0, 0, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, II, 0, 0, I, 0, 0, r, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, TION, 0, 0, UCSC
+    Computer Vision Lab, UCSC
+    son Lab, CAUTION
+    OXYGEN IN USE
+    NO SMOKING OR OPENFLAME
+    Computer Vision Lab, Computer Visi
+    CAUTION
+    NO aNG CROPEN FLA, CAUTION
+    Computer Vi, CAUTION
+    UsYEE
+    iEFLAA ComputerVi, CAUTION, CAUTION, CAUTION
+    UCSC
+    oR OPEN FL eComputer Vision Lab
+    OXYGEN IN USE, OxYGEN IN USE
+    CAUTION
+    UCSC
+, NO SMOKING OR OPEN FLAME EComputer Vision Lab,III
+    UCSC
+    EComputer Vision Lab
+    CAUTION
+    oxYGEN IN UsE
+    NO SMOKIN OR OPEN FLAME, CAUTION
+    NO SMOKING OR OPEN FLAME Computer Vision Lab
+    OxYGEN IN Usr
+I/System.out: UCSC, 0xYGEN IN USE
+    CAUTION
+    NO SMOKNG OR OPEN FLAME Computer Vision Lab
+    UCSC, CAUTION
+    OxYGEN IN usE
+    UCSC
+    NO SMOKING OR OPEN FLANE EComputer Vision Lab, CAUTION
+    OXYGEN IN USE
+    UCSC
+    NO SMOKING OR OPEN FLA EComputer Vision Lab, EComputer Vision L Lab
+    UCSC
+    CAUTION
+    OxYGEN IN USE
+    NO SMOKIN OR OPEN FLAME, CAUTION
+    NO OKING OR OPEN FUA EComputer Vision Lab
+    OxYGEN IN USE
+    UCSC, CAUTION
+    NO SMOKIN NG OR OPENFLAME
+    OxYGEN IN USE
+    UCsC
+    EComputer Vision Lab, UCSC
+    Computer Vision Lab
+    OxYGEN IN USE
+    NO SMOKING OR OPEN FLAME
+    CAUTION, UCSC
+    CAUTION
+    Computer Vision Lab
+    ratory
+    OxYGEN IN USE
+    NO SMOKING OR OPEN FLAME, 0, 0, 0, 0, 0, 0, 0, 0, T, 0, 0, 0, 0, 0, 0, 0, 0, 0, a, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, CRITON, CAUTION, CAUTION, 0, CAUT, 0, CA, 209, CA, CAU, CAUTI, CAUTI, CAUTI, CAU, CAL, 209, 209, 209
+    Computer Vson, 209, 209, 209, 209, 209
+    Computer Vson, 209, 209, 209, 209, 209
+    CAL, 209
+    Compuler Vision
+    CAUT
+    sMORING 0, 209
+I/System.out: CAUT, 209
+    CAUTI
+    SMONONG OR OPE, 209
+    CAUTI
+    NO SAKOKOING OR O, 209
+    CAUTIO
+    NO SMOHNG OR OPENF, 209
+    Compurer sion
+    CAUTION
+    OKYGEN IN USE, 209
+    CAUTION
+    cxYGEN INUSE, 209
+    CAUTION
+    NO SMOHONG OR OPEN FLAME, 209
+    CAUTION, 209
+ CAUTION, 209
+    CAUTION
+    Com, CAUTION
+    NO SANOHONG OR OPENFE, CAUTION
+    maEN Nus
+    NO SMONING OR OPENTLANE, CAUTION
+    NO SMOKIG OR OPEN FLANE, Compuret Won
+    CAUTION, 209
+    CAUTION
+    NO SMOKING OR OPEN LAME, 209
+    CAUTION
+    NO SHAOKOING OR OPEN FLAE, CAUTION
+    vo suNNG R OPEN, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, L, 0,0,0,0,0,0
+
+
+
+
+

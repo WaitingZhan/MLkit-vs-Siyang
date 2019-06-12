@@ -1,0 +1,158 @@
+0, 0, 0, 0, 0, 0, CAUTION, CAUTION, CAUTION, CAUTION, CAUTION, CAUTION, CAUTION, CAUTION, 0, 0, 0, I, 0, 0, 0, 0, 0, 0, 0, T, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, L, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, CAUTION, 0, 0, UTION, 0, 0, CAUTION
+I/System.out: UCsc, CAUTION, CAUTON, 0, 0, 0, 0, 0, O, 0, 0, 0, 0, 0, 0, DL, 0, 0, 0, t, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, CAUTON, CAUTION, CAUTION, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 209, 209, 0, 0, 209
+    CAUT, 0, UCS
+    Computer VISion Lab
+    209
+    Computer Wson
+    Uaboralory
+    CAUTION
+    ORYGEN INUsE
+    WO BAOHNG OR OPENFLAE, CAUTION, 209
+    CAUTION, 209
+    CAUTION, 209
+    CAUTION
+    S, 209
+    CAUTION
+    Comp, 209
+    Compuler Vsion
+    LaboralOry
+    CAUTION
+    UCSC
+    Computer Vision Lab,0,209
+    CAUTION
+    Computer Vision lab, CAUTION
+    CYGEN INUE, 209
+    Laboratory
+    CAUTION
+    Computer
+    UCSC, 209
+    Computer Vision
+    CAUTION
+    UCSC
+    EComputer Vision Lab, CAUTION, 209
+    Computer Vision
+    CAUTION
+    UCSC
+    Computer Vision Lab, UCSC
+    Computer Vision Lab
+    NO SMOKING OR OPEN FLAME
+    CAUTION
+    Computer Vision
+    209, 209
+    Computer Wsion
+    Laboratory
+    CAUTION
+    oxrGEN W USE
+    Computer Vision Lab, UCSC
+    Computer Vision Lab
+    CAUTION
+    209
+    NO SMONONG OR OPEN FLAME
+I/System.out: ORYGENIN USE, CAUTION, Dut
+    UCsC
+    209
+    Comcuier Waon
+    CAUTION
+    OrraEN NUsE
+    No SMOONG OR CPENFAE, CAUTION
+    oGEN IN USE
+    Computer Vision Lab
+    UCSC
+    ooROPEN FLANE
+    209
+    Computer Won
+    Laboratory, UCsC
+    Vision Lab
+    209
+    Computer Vson
+    Laboratory
+    CAUTION
+    ovpEN INUuse
+    o scING OR PEvRAE, 200
+    O
+I/System.out: CAUTION
+    LA, 0, 0, 0, 0, 0, 0, 0, I, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, VLSI, 301
+    VLSI, 0, 0, 301, 301, 0, 0, 301, 0, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 0, VLSI, VLSI, VLSI, VLSI, VLSI
+    VLSI, VLSI, VLSI
+    VLSI, VLSI
+I/chatty: uid=10087(com.google.firebase.codelab.mlkit) identical 1 line
+I/System.out: VLSI, VLSI
+    VLSI, VLSI, VLSI, VLSI, VLSI, VLSI, VLSI, VLSI,VLSI,VLSI,VLSI, VLSI, VLSI, VLSI, VLS, VLSI, SI
+    301, SI
+    301, SI
+    301, SI, LSI, LSI, VLSI, VLS
+    301, VLST
+    301, VLSI, VLS, VLSI
+    301, VLSI, VLSI
+    301, UC SANTA CRUZ
+    VLSI
+    N & AUTOMATION L
+    301, LSI, 3O1, 301, 0, 0, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 301, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 305, 305, 305, 0, 305, 305, 305, 305, 305, 305, 306, 0, 305, 305, 0, 305, 305, 305, 0, 0, 0, 305, 0, 305, 305, 305, 305, 305, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 309, 309, 309, 0, 309, 30, 0, 30, 30, 309, 309, 0, 309, 309,309,0, 0, 309, 309, 309, 309, 0, 309, 0, 0, 0, 0, 0, 0, 309, 309, 0, 0, 309, 0, 309, 0, 0, 0, 0, 0, 0, 0, 0, 309, 309, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 311, i-NRG
+    Group, NRG Interm
+    Group, 0, -NRG Iniemetworking
+    Research Group, NRG
+    Group, NRG
+    Group, -NAG
+    Group, 0, NRS, 0, Internetworking
+    Research Group, Frtssroh Gr, 0, NRG Inte
+    Group, Group, 0, 0, NRG: Inte
+    Group, Group, 311
+    GInternetworking
+    Research Group, 311
+    NRG Int
+    Research Group, -NRG Internetworking
+    Research Group, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, IT, 0, 0, 0, 0, 0, 0, 0, 315, 315, 0, 0, 315, 0, 315, 315
+    Gomputer C, 315
+    Computer C, 0, 0, Comuer, 0, 0, 315, 315, 316, 0, 315, 316, 0, 0, 315
+    Compurter Communea, 315, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 315, 0, 315, 315, 0, 0, 0, 316, 0, 0, 0, 0, 0, 0, 0, 0, 0, 315
+    r Communicate, 0, 0, 316, 316, 315, 315, 316, 315, 315,315,315
+    CCRG
+    Comm, 209
+    CAUTION
+    Computer, INO SAOKING OR CPENEAME
+    Computer V
+    CAUTION
+    Computer ision
+    209, 209
+    Computer Vision
+    CAUTION
+    guAVE Computer V
+    No SMOKNG OR D, 209
+    CAUTION
+    Computer V, CAUTION, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 211
+I/System.out: Systems Protoiyping
+    Laboralory, 211
+    Systems Potoyoing, 211
+    Systems Prototyping, Laboralory
+    211
+    Systems Protolyping, Sysems rotolyping, 211
+    Systems Protolyp, 211
+    Systerns Prołotyp, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, Systems Protolyping
+    Laborafory, 211
+    Systems Prototyping
+    Laboratory, 211
+    Systems Prototyping
+    Laboratory, Systems Prototyping
+    Laboratory, 211
+    Systema Aotolyping
+    Laboratory, 211
+    Systems Prototyping
+    Laboratory, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, CAUTION
+    UCSC
+    g oRGPEN ANE Computer Vision Lab, CAUTION, XYGEN N
+    wowNG OR OPEN FUAME
+    CompU
+    UCSC
+    nputer Vision Lab
+    CAUTION, 09
+    CAUTION, CAUTION, 209
+    CAUTION
+    UCSC
+    oNECOmputer Vision Lab, 209
+    UCSC
+I/System.out: CAUTION
+    NOSTIOKNG DR OPENFLAME Computer Vision Lab, CAUTION, 0, 0, 0, 0, 0, 0, 0,0
+
+
+
+
